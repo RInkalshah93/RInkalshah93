@@ -1,6 +1,6 @@
 # Rinkalkumar M. Shah
 
-👋 Hello! I'm Rinkalkumar M. Shah, a passionate developer based in Ahmedabad, India.
+👋 Hello! I'm Rinkalkumar M. Shah, a developer based in Ahmedabad, India.
 
 ## 🏢 Current Position
 - Working at Ericsson Global India Pvt. Ltd.
