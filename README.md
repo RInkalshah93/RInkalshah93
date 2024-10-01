@@ -10,13 +10,13 @@
 I have experience with:
 - Python
 - Jupyter Notebook
-- Machine Learning
-- Deep Learning
 - Natural Language Processing
 
 ## 🌟 Interests
 
 - Artificial Intelligence
+- Machine Learning
+- Deep Learning
 - Computer Vision
 - Natural Language Processing
 - Data Science
